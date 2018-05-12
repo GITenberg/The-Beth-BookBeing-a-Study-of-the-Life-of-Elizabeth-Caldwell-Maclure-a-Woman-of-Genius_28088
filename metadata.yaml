@@ -1,0 +1,32 @@
+_repo: The-Beth-BookBeing-a-Study-of-the-Life-of-Elizabeth-Caldwell-Maclure-a-Woman-of-Genius_28088
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grand, Sarah
+    aliases:
+    - Clarke, Frances Elizabeth Bellenden
+    - McFall, Frances Elizabeth
+    birthdate: 1854
+    deathdate: 1943
+    gutenberg_agent_id: '2223'
+    url: http://www.gutenberg.org/2009/agents/2223
+description: ''
+gutenberg_issued: '2009-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28088'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Women -- Social conditions -- Fiction'
+title: 'The Beth Book
+
+  Being a Study of the Life of Elizabeth Caldwell Maclure, a Woman of Genius'
+url: http://www.gutenberg.org/ebooks/28088
