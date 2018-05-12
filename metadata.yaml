@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '2223'
     url: http://www.gutenberg.org/2009/agents/2223
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28088#The-Beth-BookBeing-a-Study-of-the-Life-of-Elizabeth-Caldwell-Maclure-a-Woman-of-Genius
 gutenberg_issued: '2009-02-15'
 gutenberg_type: Text
 identifiers:
